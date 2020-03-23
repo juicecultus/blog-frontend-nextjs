@@ -15,7 +15,7 @@ const Nav = () => {
                   <ul className='uk-navbar-nav'>
                     <li>
                       <Link href='/'>
-                        <a>Strapi Blog</a>
+                        <a>AllMumsTalk</a>
                       </Link>
                     </li>
                   </ul>
